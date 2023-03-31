@@ -1,0 +1,3 @@
+/home/emil/simpleNavigatorv1.0/cmake-build-debug/CMakeFiles/untitled.dir
+/home/emil/simpleNavigatorv1.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/emil/simpleNavigatorv1.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

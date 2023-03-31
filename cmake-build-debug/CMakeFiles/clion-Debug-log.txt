@@ -1,0 +1,4 @@
+/snap/clion/233/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/233/bin/ninja/linux/x64/ninja -G Ninja -S /home/emil/simpleNavigatorv1.0 -B /home/emil/simpleNavigatorv1.0/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/emil/simpleNavigatorv1.0/cmake-build-debug
